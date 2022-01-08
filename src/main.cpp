@@ -6,6 +6,7 @@
  \*****************************************************************************/
 
 #include "declaration.h"
+
  //variables
 float MouseX;
 float MouseY;
