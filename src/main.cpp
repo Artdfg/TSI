@@ -12,6 +12,7 @@ float MouseY;
 float angle_x;
 float angle_y;
 //identifiant des shaders
+
 GLuint shader_program_id;
 GLuint gui_program_id;
 
